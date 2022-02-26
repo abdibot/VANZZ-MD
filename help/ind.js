@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu VANZZ-MD :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -173,7 +173,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Xfarr api
 ├ Fatih A.
 ├ ZeeoneOfc
-├ Baileys#multi-device
+├ VANZZ OFC
 ├ And all support
 └──────
 
@@ -223,7 +223,7 @@ exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
 Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+Sc Recode : https://github.com/abdibot/VANZZ-MD
 `
 }
 exports.tos = (ownerNumber, prefix) => {
@@ -232,7 +232,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 083856885495(OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
